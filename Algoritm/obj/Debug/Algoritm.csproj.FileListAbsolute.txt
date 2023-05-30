@@ -1,0 +1,8 @@
+D:\work\Test prog\Algoritm\Algoritm\bin\Debug\Algoritm.exe.config
+D:\work\Test prog\Algoritm\Algoritm\bin\Debug\Algoritm.exe
+D:\work\Test prog\Algoritm\Algoritm\bin\Debug\Algoritm.pdb
+D:\work\Test prog\Algoritm\Algoritm\obj\Debug\Algoritm.csproj.AssemblyReference.cache
+D:\work\Test prog\Algoritm\Algoritm\obj\Debug\Algoritm.csproj.SuggestedBindingRedirects.cache
+D:\work\Test prog\Algoritm\Algoritm\obj\Debug\Algoritm.csproj.CoreCompileInputs.cache
+D:\work\Test prog\Algoritm\Algoritm\obj\Debug\Algoritm.exe
+D:\work\Test prog\Algoritm\Algoritm\obj\Debug\Algoritm.pdb
